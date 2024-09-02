@@ -35,7 +35,7 @@ body {
     padding: 5px;
 }
 
-.toggle button {
+.toggle button, a {
     background: linear-gradient(135deg, #ff7e5f, #feb47b); /* Gradient background */
     border: none;
     padding: 10px 20px;
